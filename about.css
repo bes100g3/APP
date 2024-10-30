@@ -1,17 +1,12 @@
-/* styles.css */
-
 body {
     font-family: 'Courier New', monospace;
     margin: 0;
     padding: 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center; 
-    height: 100vh;
+    background-color: #f4f4f4;
+    color: #777;
+    text-align: justify;
     background: linear-gradient(to right, #a8c8f1, #e9ecef);
 }
-
 
 header {
     background-color: #007bff;
@@ -38,7 +33,8 @@ main {
 }
 
 h2 {
-    color: #007bff;;
+    color: #007bff;
+    ;
 }
 
 footer {
